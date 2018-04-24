@@ -1,0 +1,4 @@
+package: github.com/ednesic/grpctest
+import:
+- package: github.com/uber/jaeger-client-go
+  version: ^2.7.0
